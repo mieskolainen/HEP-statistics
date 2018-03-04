@@ -12,7 +12,6 @@ Code includes topics from basic parameter and their uncertainty estimation using
 Kolmogorov distributions functions are from: https://se.mathworks.com/matlabcentral/fileexchange/4369-kolmogorov-distribution-functions
 
 </br>
-
 University of Helsinki, 2014
 
 Mikael Mieskolainen
